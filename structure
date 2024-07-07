@@ -1,0 +1,9 @@
+back-end :
+    npm init -y
+    npm install express pg
+    + add index.js ( whith basic code )
+
+front-end :
+    npx create-react-app .
+    "proxy": "http://localhost:3001" ( add proxy in package.json )  
+    + add src/App.js ( whith basic code )
